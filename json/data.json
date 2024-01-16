@@ -1,0 +1,44 @@
+[
+  {
+    "artist" : "artista",
+    "title" : "titolo",
+    "album" : "album",
+    "cover_src" : "aquietplace.jpg",
+    "year" : "2001"
+  },
+  {
+    "artist" : "artista",
+    "title" : "titolo",
+    "album" : "album",
+    "cover_src" : "cure.jpg",
+    "year" : "2001"
+  },
+  {
+    "artist" : "artista",
+    "title" : "titolo",
+    "album" : "album",
+    "cover_src" : "sinister.jpg",
+    "year" : "2001"
+  },
+  {
+    "artist" : "artista",
+    "title" : "titolo",
+    "album" : "album",
+    "cover_src" : "split.jpeg",
+    "year" : "2001"
+  },
+  {
+    "artist" : "artista",
+    "title" : "titolo",
+    "album" : "album",
+    "cover_src" : "stranger.jpeg",
+    "year" : "2001"
+  },
+  {
+    "artist" : "artista",
+    "title" : "titolo",
+    "album" : "album",
+    "cover_src" : "youg.jpeg",
+    "year" : "2001"
+  }
+]

@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  background-color: #0d161e;
+  height: 100px;
+  padding: .75rem 6rem;
+}
+
+header img{
+  height: 100%;
+}
+
+main{
+  background-color: #1d2d3c;
+  height: 800px;
+}
