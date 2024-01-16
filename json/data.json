@@ -3,21 +3,21 @@
     "artist" : "artista",
     "title" : "titolo",
     "album" : "album",
-    "cover_src" : "aquietplace.jpg",
+    "cover_src" : "aquietplace.jpeg",
     "year" : "2001"
   },
   {
     "artist" : "artista",
     "title" : "titolo",
     "album" : "album",
-    "cover_src" : "cure.jpg",
+    "cover_src" : "cure.jpeg",
     "year" : "2001"
   },
   {
     "artist" : "artista",
     "title" : "titolo",
     "album" : "album",
-    "cover_src" : "sinister.jpg",
+    "cover_src" : "sinister.jpeg",
     "year" : "2001"
   },
   {

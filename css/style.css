@@ -6,8 +6,8 @@
 
 header{
   background-color: #0d161e;
-  height: 100px;
-  padding: .75rem 6rem;
+  height: 80px;
+  padding: 1rem 6rem;
 }
 
 header img{
@@ -17,4 +17,32 @@ header img{
 main{
   background-color: #1d2d3c;
   height: 800px;
+  padding-top: 2rem ;
+}
+
+main .container{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+main .card{
+  width: calc(100% / 3 - 4rem);
+  flex-grow: 1;
+  background-color: #112030;
+  margin-bottom: 2rem;
+  color: aliceblue;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+main .card .image-wrapper{
+  padding: .5rem 1.5rem;
+  width: 100%;
+}
+
+.image-wrapper img{
+  width: 100%;
 }
